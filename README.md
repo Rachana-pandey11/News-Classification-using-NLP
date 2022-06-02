@@ -3,7 +3,7 @@
 This project aims at building a model which classifies whether the news given is genuine news or false news by using Natural Language Processing . 
 
 
-CONCEPTS INVOLVED :- 
+***CONCEPTS INVOLVED :-***
 
 
 •Supervised Learning
@@ -25,7 +25,7 @@ CONCEPTS INVOLVED :-
 
 
 
-DETAILS OF DATA SET :-
+***DETAILS OF DATA SET :-***
 
 
 We used datasets
@@ -39,23 +39,27 @@ We used datasets
 
 
 
-COLUMNS :[TITLE, TEXT ,SUBJECT, DATE]
+**COLUMNS : ** [TITLE, TEXT ,SUBJECT, DATE]
 
 
-NO-of-rows : Fake.csv-23481  True.csv-21417 
+**NO-of-rows :**
+
+Fake.csv-23481  
+
+True.csv-21417 
 
 
 
-THERE are different subjects involved :-
+***THERE are different subjects involved :-***
 
 
-i)false : 
+**i)false : **
 
 
 News - 9050 , politics- 6841 , left-news - 4459 , Government News - 1570 , US_News - 783 , Middle-east - 778
 
 
-ii) True :
+**ii) True :**
 
 
 politicsNews - 11272 , worldnews - 10145

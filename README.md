@@ -23,6 +23,8 @@ CONCEPTS INVOLVED :-
 
 •ML Classifiers 
 
+
+
 DETAILS OF DATA SET :-
 
 
@@ -35,10 +37,14 @@ We used datasets
 •true .csv
 
 
+
+
 COLUMNS :[TITLE, TEXT ,SUBJECT, DATE]
 
 
 NO-of-rows : Fake.csv-23481  True.csv-21417 
+
+
 
 THERE are different subjects involved :-
 
@@ -53,6 +59,8 @@ ii) True :
 
 
 politicsNews - 11272 , worldnews - 10145
+
+
 
 This project under goes text analyticswhich is an artificial intelligence (AI) technology that usesnatural language processing(NLP) to transform the free (unstructured)textin documents and databases into normalized, structured data suitable foranalysisor to drive machine learning (ML) algorithms
 
